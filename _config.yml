@@ -1,7 +1,7 @@
 # Site settings
-title: UDAY KUMAR
-twitter_username: TiM3ParaD0x
-name: Uday Kumar
+title: SURAJ SEN
+twitter_username: -
+name: Suraj Sen
 
 # Build settings
 markdown: kramdown
@@ -10,13 +10,13 @@ markdown: kramdown
 #Links that will appear in the navbar
 primarylinks:
  - title: Blog
-   url: http://udayom.blogspot.com/
+   url: 
  - title: GitHub
-   url: https://github.com/udayom/
+   url: https://github.com/designersuraj
  - title: Facebook
-   url: http://facebook.com/udayom/
+   url: http://facebook.com/
  - title: LinkedIn
-   url: https://www.linkedin.com/in/udayom/
+   url: https://www.linkedin.com/in/suraj-sen-1b1777ab/
 
 #Any buzzword skills you want to include
 skills:
